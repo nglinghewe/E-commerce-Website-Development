@@ -1,0 +1,26 @@
+{
+  "name": "471-fwqpog",
+  "version": "1.0.0",
+  "description": "An advanced e-commerce website solution designed to provide seamless online shopping experiences, personalized product recommendations, and secure payment options.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nglinghewe/E-commerce-Website-Development.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "nglinghewe",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
